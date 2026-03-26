@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|c:\\users\\\u0430\u0439\u0440\u0430\u0442\\source\\repos\\dz2_2nd_sem\\dz2_2nd_sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\dz2_2nd_sem\\movedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\movedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\dz2_2nd_sem\\takenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\takenevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\dz2_2nd_sem\\ijournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\ijournalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|c:\\users\\\u0430\u0439\u0440\u0430\u0442\\source\\repos\\dz2_2nd_sem\\dz2_2nd_sem\\failedattemptevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\failedattemptevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\dz2_2nd_sem\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\dz2_2nd_sem\\placedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F17058-116C-4F59-A985-6A631BB87DC5}|Dz2_2nd_Sem\\Dz2_2nd_Sem.csproj|solutionrelative:dz2_2nd_sem\\placedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\Program.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\Program.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAF8BAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:25:13.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\Journal.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\Journal.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\Journal.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\Journal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:25:56.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJournalEntry.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\IJournalEntry.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\IJournalEntry.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\IJournalEntry.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\IJournalEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:26:24.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlacedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\PlacedEvent.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\PlacedEvent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\PlacedEvent.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\PlacedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:26:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TakenEvent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\TakenEvent.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\TakenEvent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\TakenEvent.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\TakenEvent.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:27:23.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\MovedEvent.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\MovedEvent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\MovedEvent.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\MovedEvent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:27:12.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FailedAttemptEvent.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\FailedAttemptEvent.cs",
+              "RelativeDocumentMoniker": "Dz2_2nd_Sem\\FailedAttemptEvent.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0439\u0440\u0430\u0442\\source\\repos\\Dz2_2nd_Sem\\Dz2_2nd_Sem\\FailedAttemptEvent.cs",
+              "RelativeToolTip": "Dz2_2nd_Sem\\FailedAttemptEvent.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T16:26:47.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

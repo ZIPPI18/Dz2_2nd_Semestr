@@ -1,0 +1,7 @@
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\bin\Debug\Dz2_2nd_Sem.exe.config
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\bin\Debug\Dz2_2nd_Sem.exe
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\bin\Debug\Dz2_2nd_Sem.pdb
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\obj\Debug\Dz2_2nd_Sem.csproj.AssemblyReference.cache
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\obj\Debug\Dz2_2nd_Sem.csproj.CoreCompileInputs.cache
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\obj\Debug\Dz2_2nd_Sem.exe
+C:\Users\Айрат\source\repos\Dz2_2nd_Sem\Dz2_2nd_Sem\obj\Debug\Dz2_2nd_Sem.pdb
