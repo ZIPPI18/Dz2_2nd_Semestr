@@ -32,10 +32,10 @@ namespace Dz2_2nd_Sem
 
                 if (choice == "5")
                 {
-                    SavePlaced();
-                    SaveMoved();
-                    SaveTaken();
-                    SaveFailed();
+                    placedJournal.SaveToFile("Placed.log");
+                    takenJournal.SaveToFile("Taken.log");
+                    movedJournal.SaveToFile("Moved.log");
+                    failedJournal.SaveToFile("Failed.log");
                     Console.WriteLine("Программа завершена");
                     break;
                 }
@@ -271,50 +271,6 @@ namespace Dz2_2nd_Sem
             foreach (var el in failedJournal.GetAll()) { Console.WriteLine(el.ToScreenLine()); }
         }
 
-        static void SavePlaced()
-        {
-            StreamWriter writer = new StreamWriter("Placed.log", false);
-            var allPlaced = placedJournal.GetAll();
-            foreach(var el in allPlaced)
-            {
-                writer.WriteLine(el.ToLogLine());
-            }
-            writer.Close();
-        }
-
-        static void SaveTaken()
-        {
-            StreamWriter writer = new StreamWriter("Taken.log", false);
-            var allTaken = takenJournal.GetAll();
-            foreach(var el in allTaken)
-            {
-                writer.WriteLine(el.ToLogLine());   
-            }
-            writer.Close();
-        }
-
-        static void SaveMoved()
-        {
-            StreamWriter writer = new StreamWriter("Moved.log", false);
-            var allMoved = movedJournal.GetAll();
-            foreach (var el in allMoved)
-            {
-                writer.WriteLine(el.ToLogLine());
-            }
-            writer.Close();
-        }
-
-        static void SaveFailed()
-        {
-            StreamWriter writer = new StreamWriter("Failed.log", false);
-            var allFailed = failedJournal.GetAll();
-            foreach (var el in allFailed)
-            {
-                writer.WriteLine(el.ToLogLine());
-            }
-            writer.Close();
-        }
-
         static void LoadAllFiles()
         {
             if (File.Exists("Placed.log"))
@@ -337,28 +293,20 @@ namespace Dz2_2nd_Sem
                     var ev = TakenEvent.FromLogLine(line);
                     takenJournal.Add(ev);
                     if (ev.Shelf == "A")
-                        shelfA[ev.Slot - 1] = ev.ItemName;
-                    else if(ev.Shelf == "B")
-                        shelfB[ev.Slot - 1] = ev.ItemName;
+                        shelfA[ev.Slot - 1] = null;
+                    else if (ev.Shelf == "B")
+                        shelfB[ev.Slot - 1] = null;
                 }
             }
 
-            if (File.Exists("Moved.log"))
+            if (File.Exists("Failed.log"))
             {
-                foreach (var line in File.ReadAllLines("Moved.log"))
+                foreach (var line in File.ReadAllLines("Failed.log"))
                 {
                     if (string.IsNullOrWhiteSpace(line))
                         continue;
-                    var ev = MovedEvent.FromLogLine(line);
-                    movedJournal.Add(ev);
-                    if (ev.FromShelf == "A")
-                        shelfA[ev.FromSlot - 1] = null;
-                    else
-                        shelfB[ev.FromSlot - 1] = null;
-                    if (ev.ToShelf == "A")
-                        shelfA[ev.ToSlot - 1] = ev.ItemName;
-                    else
-                        shelfB[ev.ToSlot - 1] = ev.ItemName;
+                    var ev = FailedAttemptEvent.FromLogLine(line);
+                    failedJournal.Add(ev);
                 }
             }
         }

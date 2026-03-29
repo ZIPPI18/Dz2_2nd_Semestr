@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +19,15 @@ namespace Dz2_2nd_Sem
         {
             return entries;
         }
-
+        public void SaveToFile(string path)
+        {
+            using (StreamWriter writer = new StreamWriter(path, false))
+            {
+                foreach (var entry in entries)
+                {
+                    writer.WriteLine(entry.ToLogLine());
+                }
+            }
+        }
     }
 }
